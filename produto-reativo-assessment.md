@@ -23,7 +23,8 @@ Produto em Operação e buscando investimento para tração.
 
 ### Product Strategy
 
-Para a indústria de segurança pública e privada, o Bat Armor é uma armadura inteligente com plataforma digital IOT que utiliza aprendizado de máquina para realizar otimização de programas, manutenção preditiva e prescritiva na utilização. Diferentemente das soluções da LexCorp e Stagg Enterprises que monitoram apenas indicadores básicos em tempo real, a Bat Armor atua de forma preditiva, aplicando AI para detectar falhas no equipamento, prever pontos de perigo e melhoria de atuação pelo profissional de segurança.
+Para a indústria de segurança pública e privada, o Bat Armor é uma armadura inteligente com plataforma digital IOT que utiliza aprendizado de máquina para realizar otimização de programas, manutenção preditiva e prescritiva para a melhor abordagem utilizando o equipamento.  
+Diferentemente das soluções da LexCorp e Stagg Enterprises que monitoram apenas indicadores básicos em tempo real, a Bat Armor atua de forma preditiva, aplicando AI para detectar falhas no equipamento, prever pontos de perigo e melhoria de atuação pelo profissional de segurança.
 
 ### Assessment
 
