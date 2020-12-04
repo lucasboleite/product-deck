@@ -56,6 +56,6 @@ Mais informações que ache importante.
 ### Team Building
 
 #### Time de tecnologia do produto
-**Nome**: Joseph Richard Santos, 27 anos, santos.joseph@wayne.tech  
+**Nome**: Crezio Richard Santos, 27 anos, santos.crezio@wayne.tech  
 **Cargo**: Engenheiro de Software para Backend, Sistemas Embarcados, IIOT e Robótica.
-[https://www.linkedin.com/in/josephsantos/](https://www.linkedin.com/in/paulosantosphs/)
+[https://www.linkedin.com/in/creziorichardsantos/](https://www.linkedin.com/in/creziorichardsantos/)
