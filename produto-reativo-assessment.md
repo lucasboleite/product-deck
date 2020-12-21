@@ -17,7 +17,7 @@ Email: wayne.helena@wayne.tech
 
 ### Bat Armor
 
-![estagio](./images/startup-journey.png) 
+![estagio](./images/pr-startup-journey.png) 
 
 Produto em Operação e buscando investimento para tração.
 
